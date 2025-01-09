@@ -1,4 +1,4 @@
-# WBA Q2 Solana-starter
+# WBA Q2 and Q4 2024 Builder's Repository
 
 WBA -- Quarter 2, 2024, Solana developer's course.
 
